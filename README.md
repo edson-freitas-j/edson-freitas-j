@@ -17,7 +17,7 @@ Atualmente, dedico meus estudos e projetos ao desenvolvimento de aplicações, i
 
 ## 🛠️ Tecnologias e ferramentas
 
-- **Desenvolvimento:** Kotlin, JavaScript, PHP e Python
+- **Desenvolvimento:** Kotlin, JavaScript, PHP e C++
 - **Banco de dados:** MariaDB / MySQL
 - **Sistemas:** Linux e Windows
 - **Hardware e automação:** Arduino e IoT
