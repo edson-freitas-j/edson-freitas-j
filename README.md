@@ -48,14 +48,13 @@ Aplicação desenvolvida para auxiliar na gestão financeira e operacional de um
 - Persistência de dados em MariaDB.
 - Comunicação entre aplicativo e servidor.
 
-### Gmail Bulk Cleaner
-**JavaScript | Google Apps Script | Gmail API**
+### Gmail Bulk Trash Cleaner
 
-Automação desenvolvida para gerenciamento de grandes volumes de mensagens no Gmail.
+Automação para exclusão permanente de mensagens do Gmail em lotes, desenvolvida com JavaScript, Google Apps Script e Gmail API. Projeto criado para solucionar uma limitação da interface nativa do Gmail no processamento de grandes volumes de mensagens.
 
-- Listagem de mensagens em lotes.
-- Exclusão em massa utilizando a API do Gmail.
-- Automatização de tarefas repetitivas.
+**Tecnologias:** JavaScript · Google Apps Script · Gmail API · OAuth 2.0
+
+[Ver projeto no GitHub](https://github.com/edson-freitas-j/gmail-bulk-trash-cleaner)
 
 ### Arduino Nikon Remote
 **Arduino | Eletrônica | Infravermelho**
